@@ -4,8 +4,8 @@
    إذا تُركت القيم فارغة يعمل الموقع بوضع «تجريبي» محلي لمعاينة التصميم.
    ===================================================================== */
 window.APP_CONFIG = {
-  SUPABASE_URL: "",       // مثال: https://abcdxyz.supabase.co
-  SUPABASE_ANON_KEY: "",  // مفتاح anon public
+  SUPABASE_URL: "https://zmfmuwuzvuecjfwrguth.supabase.co",       // مثال: https://abcdxyz.supabase.co
+  SUPABASE_ANON_KEY: "sb_publishable_4FztmuurbfwtRFL1GK87HA_K7WYGuGr",  // مفتاح anon public
 
   // اسم المستخدم للمدير يتحول داخلياً إلى بريد بهذا النطاق
   // (admin  →  admin@sanaa.app) ويجب أن يطابق المستخدم المُنشأ في Supabase Auth
